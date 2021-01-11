@@ -18,7 +18,7 @@ theme_config:
   show_footer: true
   show_projects: true
   show_old_projects: true
-  show_misc_list: false
+  show_misc_list: true
   show_soopr: true
   soopr_base_url: 'https://soopr.netlify.app'
 highlighter: rouge
